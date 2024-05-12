@@ -1,4 +1,4 @@
- <h3 align="center">Training tracker mini app</h3>
+ <h3 align="center">Training tracke</h3>
   <p align="center">it's a mini app focused in tracking and simulate exercises <br/>
                  
 * [Angular](https://vuejs.org/)
